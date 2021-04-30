@@ -1,10 +1,14 @@
 {
     "dependencies": {
+        "@ant-design/icons": "^4.6.2",
+        "antd": "^4.15.3",
+        "array-move": "^3.0.1",
         "mobx-react": "^5.4.3",
         "path": "^0.12.7",
         "prop-types": "^15.6.2",
         "react": "^16.7.0",
-        "react-dom": "^16.7.0"
+        "react-dom": "^16.7.0",
+        "react-sortable-hoc": "^2.0.0"
     },
     "devDependencies": {
         "@babel/core": "^7.7.4",
